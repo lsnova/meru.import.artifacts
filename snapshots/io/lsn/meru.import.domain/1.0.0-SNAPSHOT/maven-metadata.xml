@@ -2,24 +2,24 @@
 <metadata modelVersion="1.1.0">
   <groupId>io.lsn</groupId>
   <artifactId>meru.import.domain</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
   <versioning>
+    <lastUpdated>20231211152002</lastUpdated>
     <snapshot>
-      <timestamp>20231004.101154</timestamp>
-      <buildNumber>119</buildNumber>
+      <timestamp>20231211.152002</timestamp>
+      <buildNumber>120</buildNumber>
     </snapshot>
-    <lastUpdated>20231004101154</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
-        <extension>jar</extension>
-        <value>1.0.0-20231004.101154-119</value>
-        <updated>20231004101154</updated>
+        <extension>pom</extension>
+        <value>1.0.0-20231211.152002-120</value>
+        <updated>20231211152002</updated>
       </snapshotVersion>
       <snapshotVersion>
-        <extension>pom</extension>
-        <value>1.0.0-20231004.101154-119</value>
-        <updated>20231004101154</updated>
+        <extension>jar</extension>
+        <value>1.0.0-20231211.152002-120</value>
+        <updated>20231211152002</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
+  <version>1.0.0-SNAPSHOT</version>
 </metadata>
