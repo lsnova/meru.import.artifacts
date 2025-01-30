@@ -3,21 +3,21 @@
   <groupId>io.lsn</groupId>
   <artifactId>meru.import.domain</artifactId>
   <versioning>
-    <lastUpdated>20250102081731</lastUpdated>
+    <lastUpdated>20250130081053</lastUpdated>
     <snapshot>
-      <timestamp>20250102.081731</timestamp>
-      <buildNumber>154</buildNumber>
+      <timestamp>20250130.081053</timestamp>
+      <buildNumber>155</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0-20250102.081731-154</value>
-        <updated>20250102081731</updated>
+        <value>1.0.0-20250130.081053-155</value>
+        <updated>20250130081053</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0-20250102.081731-154</value>
-        <updated>20250102081731</updated>
+        <value>1.0.0-20250130.081053-155</value>
+        <updated>20250130081053</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
