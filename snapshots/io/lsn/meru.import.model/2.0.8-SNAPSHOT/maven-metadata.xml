@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.lsn</groupId>
+  <artifactId>meru.import.model</artifactId>
+  <versioning>
+    <lastUpdated>20260121131444</lastUpdated>
+    <snapshot>
+      <timestamp>20260121.131444</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.8-20260121.131444-1</value>
+        <updated>20260121131444</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.0.8-SNAPSHOT</version>
+</metadata>
