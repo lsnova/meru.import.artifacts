@@ -3,16 +3,16 @@
   <groupId>io.lsn</groupId>
   <artifactId>meru.import.model</artifactId>
   <versioning>
-    <lastUpdated>20260511072050</lastUpdated>
+    <lastUpdated>20260610112104</lastUpdated>
     <snapshot>
-      <timestamp>20260511.072050</timestamp>
-      <buildNumber>38</buildNumber>
+      <timestamp>20260610.112104</timestamp>
+      <buildNumber>39</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.0.7-20260511.072050-38</value>
-        <updated>20260511072050</updated>
+        <value>2.0.7-20260610.112104-39</value>
+        <updated>20260610112104</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
